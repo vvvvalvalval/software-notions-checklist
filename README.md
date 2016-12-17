@@ -18,7 +18,7 @@ Hopefully this list gives you enough keywords so that you can do your own resear
 
 _**You don't need to master the whole list to start building something.**_
 We do not claim that these notions are a prerequisite to succeeding in software.
-We know however that as software projects grow, they become more and more valuable.
+We know however that as software projects grow, these notions become more and more valuable.
 
 _**Contributions are welcome.**_
 If you have suggestions to make this resource better, please open a Github issue, or send an email to `val.vvalval@gmail.com`.
