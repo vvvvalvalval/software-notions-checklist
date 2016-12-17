@@ -6,7 +6,7 @@ var txt = fs.readFileSync('./README.md', 'utf8');
 var arr = txt.match(/([^]*Table.of.Contents\s*)([^]*)(##.General.notions[^]*)/);
 
 function slugifyHeading(h){
-  return h.toLowerCase().replace(/[^\w\s]+/g,'').replace(/\s/g,'-');
+  return h.toLowerCase().replace(/[^\w\s\-]+/g,'').replace(/\s/g,'-');
 }
 
 function repeat(n, v){
