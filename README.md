@@ -110,7 +110,7 @@ If you have suggestions to make this resource better, please open a Github issue
   * [resource usage](#resource-usage)
   * [scalability](#scalability)
   * [contention](#contention)
-  * [Security:](#security)
+* [Security:](#security)
   * [digest / checksum](#digest--checksum)
   * [encryption](#encryption)
   * [authentication](#authentication)
@@ -126,7 +126,6 @@ If you have suggestions to make this resource better, please open a Github issue
   * [production rule systems ★](#production-rule-systems-)
   * ['spreadsheet' (how to name this? 'reactive programming' maybe?) ★](#spreadsheet-how-to-name-this-reactive-programming-maybe-)
   * ['graph' (as embodied by the Plumatic/Graph library: how to name this?) ★](#graph-as-embodied-by-the-plumaticgraph-library-how-to-name-this-)
-
 
 ## General notions:
 ### syntax vs semantics
@@ -224,7 +223,8 @@ If you have suggestions to make this resource better, please open a Github issue
 ### resource usage
 ### scalability
 ### contention
-### Security:
+
+## Security:
 ### digest / checksum
 ### encryption
 ### authentication
