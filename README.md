@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [General notions:](general-notions)
-  * [syntax vs semantics](syntax-vs-semantics)
+  * [syntax vs semantics](#syntax-vs-semantics)
   * [functions / procedures / methods](functions--procedures--methods)
   * [polymorphism, interface / implementation](polymorphism-interface--implementation)
   * [abstraction](abstraction)
