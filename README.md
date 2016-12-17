@@ -1,4 +1,27 @@
+# Software notions checklist
+
 > Once you can name something, you've gained power over it.
+
+This repository offers a list of notions that many experienced software developers find to be valuable.
+The goal is to help programmers who feel the need to improve their craft, but don't know where to look - because they cannot put a name on what concepts they're lacking.
+
+_**This is not a tutorial.**_
+If you don't know the first thing about programming, you are not ready for this list yet.
+Go find a tutorial / teacher and build something.
+After a few months, as you get more experience and your projects grow, the notions presented here will become more and more relevant to you.
+
+_**This is not an encyclopedia.**_
+It's a portal: the goal is to be broad, not deep. 
+There are already many excellent learning resources available for each of these topics; 
+we will do our best to provide references to some of them. 
+Hopefully this list gives you enough keywords so that you can do your own research efficiently.
+
+_**You don't need to master the whole list to start building something.**_
+We do not claim that these notions are a prerequisite to succeeding in software.
+We know however that as software projects grow, they become more and more valuable.
+
+_**Contributions are welcome.**_
+If you have suggestions to make this resource better, please open a Github issue, or send an email to `val.vvalval@gmail.com`.
 
 ## Table of Contents
 
