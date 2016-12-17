@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vvvvalvalval/software-notions-checklist/issues"
   },
-  "homepage": "https://github.com/vvvvalvalval/software-notions-checklist#readme"
+  "homepage": "https://github.com/vvvvalvalval/software-notions-checklist#readme",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
 }
