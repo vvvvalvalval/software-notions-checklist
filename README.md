@@ -1,5 +1,10 @@
 > Once you can name something, you've gained power over it.
 
+## a a/a&aéa"a'a(a§aèa!açaàa)a-a★a^a¨a$a+a=a:a;a.a,a?a<a>a`a£a$a€aùa
+
+## Table of Contents
+
+
 ## General notions:
 ### syntax vs semantics
 ### functions / procedures / methods

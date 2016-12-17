@@ -1,0 +1,19 @@
+{
+  "name": "software-notions-checklist",
+  "version": "1.0.0",
+  "description": "> Once you can name something, you've gained power over it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvvvalvalval/software-notions-checklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvvvalvalval/software-notions-checklist/issues"
+  },
+  "homepage": "https://github.com/vvvvalvalval/software-notions-checklist#readme"
+}
