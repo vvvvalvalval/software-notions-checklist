@@ -143,6 +143,9 @@ If you have suggestions to make this resource better, please open a Github issue
 ### variables: names vs references
 ### types of programs: server, GUI, script, data processing, CLI, REPL lib
 ### API & clients
+**References:**
+* [Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
+
 ### producer and consumer
 ### state
 
@@ -235,6 +238,10 @@ If you have suggestions to make this resource better, please open a Github issue
 ### query languages / constraint solvers
 ### relational model
 ### logic programming ★
+**References:**
+* [Wikipedia](https://en.wikipedia.org/wiki/Logic_programming)
+* Book: [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer)
+
 ### production rule systems ★
 ### 'spreadsheet' (how to name this? 'reactive programming' maybe?) ★
 ### 'graph' (as embodied by the Plumatic/Graph library: how to name this?) ★
