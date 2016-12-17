@@ -104,6 +104,7 @@
   * ['spreadsheet' (how to name this? 'reactive programming' maybe?) ★](#spreadsheet-how-to-name-this-reactive-programming-maybe-)
   * ['graph' (as embodied by the Plumatic/Graph library: how to name this?) ★](#graph-as-embodied-by-the-plumaticgraph-library-how-to-name-this-)
 
+
 ## General notions:
 ### syntax vs semantics
 ### functions / procedures / methods
